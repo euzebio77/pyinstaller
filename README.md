@@ -1,5 +1,5 @@
 # Pyinstaller
-Pyinstaller é um biblioteca que serve para transformar um condigo em python em um programa executavel, a utilização desta biblioteca é bem simples, segue abaixo o passo a passo:
+Pyinstaller é um biblioteca que serve para transformar um condigo em python em um programa executavel.
 
 # Instalação
 windows:
